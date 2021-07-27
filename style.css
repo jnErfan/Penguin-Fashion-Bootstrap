@@ -1,0 +1,35 @@
+/* -------------------
+Style Sheets Start
+---------------------*/
+
+/* Header Style start  */
+
+/* Header Style Start  */
+.header-title{
+font-size: 80px;
+font-family: 'Bebas Neue', cursive;
+}
+.header-button{
+    background-image: linear-gradient(#A4BC46, #85A019); 
+}
+.Header-Main{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/* Header Style End  */
+
+/* Woman Jacket Style  */
+.woman-jacket{
+    font-size: 48px;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.jacket-bg{
+    background-color: #e2e2e2;
+    ;
+}
+
+
+/* -------------------
+Style Sheets End
+---------------------*/
